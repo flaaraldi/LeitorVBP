@@ -1,0 +1,8 @@
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\bin\Debug\Leitura VBP.exe
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\bin\Debug\Leitura VBP.pdb
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\obj\Debug\Leitura_VBP.Form1.resources
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\obj\Debug\Leitura_VBP.Properties.Resources.resources
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\obj\Debug\Leitura VBP.csproj.GenerateResource.Cache
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\obj\Debug\Leitura VBP.exe
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\obj\Debug\Leitura VBP.pdb

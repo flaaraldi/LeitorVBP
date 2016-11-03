@@ -1,0 +1,12 @@
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\bin\x86\Debug\Leitura VBP.exe
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\bin\x86\Debug\Leitura VBP.pdb
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\obj\x86\Debug\Leitura_VBP.Form1.resources
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\obj\x86\Debug\Leitura_VBP.Properties.Resources.resources
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\obj\x86\Debug\Leitura VBP.csproj.GenerateResource.Cache
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\obj\x86\Debug\Leitura VBP.exe
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\obj\x86\Debug\Leitura VBP.pdb
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\bin\x86\Debug\office.dll
+C:\Users\Flavio\Desktop\Teste\Leitura VBP\Leitura VBP\obj\x86\Debug\Leitura VBP.exe.licenses
